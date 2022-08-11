@@ -1,0 +1,118 @@
+/* `xl` applies to large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) { 
+  .sign-box {
+    width: 45%;
+  }
+  .body {
+    padding: 0 3rem;
+  }
+}
+/* `lg` applies to medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) { 
+  .navbar-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .navbar-nav li {
+    margin: 0 1rem;
+  }
+  .pt-7 {
+    padding-top: 4em;
+  }
+  .movie-box {
+    width: 33.33%;
+  }
+  .navbar-collapse {
+    background-color: #020D18;
+    border-bottom: 1px solid #fff;
+  }
+  .m-box {
+    width: 100%;
+  }
+}
+/*`md` applies to small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) { 
+  .sign-box {
+    width: 66%;
+  }
+  .body {
+    padding: 0 1rem;
+  }
+  .movie-box {
+    width: 50%;
+  }
+  .media-box {
+    width: 50%!important;
+    margin: auto;
+    margin-bottom: 3rem;
+  }
+  .reviews-box .text-center {
+    margin: 1rem 0;
+  }
+  .backdrop_ {
+    height: 100%;
+  }
+  .person-img {
+    width: 50%;
+    margin: auto;
+    margin-bottom: 2rem;
+  }
+  .media-details .piechart {
+    top: -70px;
+    right: 50%;
+    transform: translateX(50%);
+  }
+  .media-details .pie_content {
+    width: 37px;
+    height: 37px;
+  }
+  .media-details .piechart .value{
+    font-size: .9rem;
+  }
+  .media-details .piechart {
+    width: 45px;
+    height: 45px;
+  }
+}
+/* `sm` applies to x-small devices (portrait phones, less than 576px) */ 
+@media (max-width: 575.98px) { 
+  .sign-box {
+    width: 90%;
+    padding: 2rem 1rem;
+    margin-top: 4rem;
+  }
+  .movie-box {
+    width: 100%;
+  }
+  .page-item .page-link {
+    margin: 0 .2rem;
+    padding: 4px 12px;
+    font-size: .8rem;
+  }
+  .m-box {
+    padding: 0;
+  }
+  .movie {
+    padding: 0.8rem;
+    margin: 0!important;
+  }
+  .person-img {
+    width: 100%;
+  }
+  .slick-dots {
+    bottom: -50px;
+  }
+  .credits .slick-slider {
+    margin-bottom: 3rem;
+  }
+  .acting-box li {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+}
+
+
+
+
