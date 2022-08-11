@@ -1,3 +1,20 @@
+# you can use this app for save your notes in real database, protected by your email
+tools and library :
+- react router dom
+- axios
+- pagination
+- slick
+- carousel
+- joi
+- jwt-decode
+- jquery
+- bootstrap
+- fontawsome
+
+ <h1>
+ <a href="https://media-discover.netlify.app/" target="_blank" >Media Discover-Reactjs </a>
+ </h1>
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
