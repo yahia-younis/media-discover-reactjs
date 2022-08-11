@@ -13,7 +13,7 @@ tools and library :
 
  <h1>
  <a href="https://media-discover.netlify.app/" target="_blank" >Media Discover-Reactjs Demo</a>
-  if this link not work try this  <a href="http://media-discover.epizy.com/?i=1" target="_blank" >Media Discover-Reactjs Demo</a>
+  if this link not work try this  <a href="http://media-discover.epizy.com/?i=1" target="_blank" >Demo</a>
  </h1>
  
 # Getting Started with Create React App
