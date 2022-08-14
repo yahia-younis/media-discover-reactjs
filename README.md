@@ -1,4 +1,4 @@
-# you can use this app for save your notes in real database, protected by your email
+# you can use this app for Discover Millions Of Movies, TV Shows And People
 tools and library :
 - react router dom
 - axios
